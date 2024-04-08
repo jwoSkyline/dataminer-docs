@@ -8,7 +8,7 @@ Sets the data of the specified row to the specified values.
 
 ## Parameters
 
-Preforming a set on the **local element**:
+Performing a set on the **local element**:
 
 ```csharp
 object[] rowDetails = new object[]{1000, "Row 5"};
